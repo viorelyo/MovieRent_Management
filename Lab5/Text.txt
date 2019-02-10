@@ -1,0 +1,30 @@
+﻿+TITLE ASCII
++EMAIL    
++ Authentification
++ rama aqua + text blue
++ Recomandations
++ type effect
++ Vritual assistant
+
+
+                       _      
+//    /\/\   _____   _(_)_  __
+//   /    \ / _ \ \ / / \ \/ /
+//  / /\/\ \ (_) \ V /| |>  < 
+//  \/    \/\___/ \_/ |_/_/\_\
+                            
+
+
+----
+repository --- list of users
+
+validation --- genre -----set of genres
+
+
+
++ MODIFY +
+
+1. + EXCEPTIONS
+2. modify controller
+3. csv parsing
+4. update link after update movie title
