@@ -1,26 +1,5 @@
-﻿  stdafx.cpp
-  Controller.cpp
-c:\users\viorel\source\repos\lab5\lab5\controller.cpp(24): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\controller.cpp(46): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\controller.cpp(86): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\controller.cpp(102): warning C4101: 'e': unreferenced local variable
-  FileRepository.cpp
-c:\users\viorel\source\repos\lab5\lab5\filerepository.cpp(56): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\filerepository.cpp(70): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\filerepository.cpp(85): warning C4101: 'e': unreferenced local variable
-  FileTypes.cpp
-  Film.cpp
-  Lab5.cpp
-  Repository.cpp
-c:\users\viorel\source\repos\lab5\lab5\repository.cpp(111): warning C4101: 'e': unreferenced local variable
-c:\users\viorel\source\repos\lab5\lab5\repository.cpp(124): warning C4101: 'e': unreferenced local variable
-  UI.cpp
+﻿  UI.cpp
 c:\users\viorel\source\repos\lab5\lab5\ui.cpp(220): warning C4018: '<': signed/unsigned mismatch
 c:\users\viorel\source\repos\lab5\lab5\ui.cpp(1184): warning C4129: '_': unrecognized character escape sequence
-  Validation.cpp
-c:\users\viorel\source\repos\lab5\lab5\validation.cpp(26): warning C4101: 'e': unreferenced local variable
-  WatchList.cpp
-  Generating Code...
 c:\users\viorel\source\repos\lab5\lab5\ui.cpp(1239): warning C4715: 'UI::userSetup': not all control paths return a value
-c:\users\viorel\source\repos\lab5\lab5\repository.cpp(128): warning C4715: 'Repository::addUsersFilmToWatchlist': not all control paths return a value
   Lab5.vcxproj -> C:\Users\viorel\source\repos\Lab5\Debug\Lab5.exe

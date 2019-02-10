@@ -25,17 +25,17 @@ The application `MOVIX` (pseudo-ChatBot) can be used in two ways: administratorM
     - `CRUD` operations   
 
 ## Demo
-Log In as Administrator 
-P.S. the default Credentials: Username: `admin` Password: `1111`
-Here comes the admin Menu.
+Log In as Administrator  
+P.S. the default Credentials: Username: `admin` Password: `1111`  
+Here comes the admin Menu.  
 
 <img src="/screenshots/gif1.gif" width="700">
 
-Log In as User
-Users are saved into a local database (.csv file)
-You can watch the movies by the genre and select which of them to add to own wathlist.
-The movielist is iterated and user can choose a movie from it.
-You can watch the trailer for a movie.
+Log In as User  
+Users are saved into a local database (.csv file)  
+You can watch the movies by the genre and select which of them to add to own wathlist.  
+The movielist is iterated and user can choose a movie from it.  
+You can watch the trailer for a movie.  
 
 <img src="/screenshots/gif3.gif" width="700">
 

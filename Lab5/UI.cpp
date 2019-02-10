@@ -1460,7 +1460,7 @@ void UI::menuWatchList()
 void UI::run()
 {
 	int option = 0;
-	//landing();
+	landing();
 
 	while (true) {
 		int whois = authentification();			//returns 0 for EXIT, 1 - USER, 2 - ADMIN
